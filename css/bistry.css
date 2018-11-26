@@ -1,0 +1,45 @@
+.logo-bistry {
+	height: 35px;
+}
+
+#about_cryptonic_02 {
+	padding: 60px 0 0;
+}
+
+#best_feature_06 {
+	margin-top: 90px;
+}
+
+#footer-02 {
+	padding-top: 115px;
+}
+
+#best_feature_06 .sub-title p {
+	color: #7a839e;
+}
+
+.footer-single-col {
+	float: left;
+}
+
+#footer-02 .footer_items {
+	display: block;
+}
+
+#subscribe_area_01 {
+	background: #562ad8;
+	margin-top: 90px;
+	padding-top: 30px;
+}
+
+#subscribe_area_01 .subscribe-wrapper #subscribe .sub-title h2 {
+	color: #fff;
+}
+
+#subscribe_area_01 .subscribe-wrapper #subscribe .sub-title p {
+	color: #a2b2ff;
+}
+
+.subscribe-form h2 {
+	font-size: 30px;
+}
