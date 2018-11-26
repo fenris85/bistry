@@ -2,6 +2,12 @@
 	height: 35px;
 }
 
+@media (max-width: 768px) {
+	.logo-bistry {
+		height: 30px;
+	}
+}
+
 #about_cryptonic_02 {
 	padding: 60px 0 0;
 }
@@ -42,4 +48,22 @@
 
 .subscribe-form h2 {
 	font-size: 30px;
+}
+
+.box-wrapper {
+
+	background: #ffffff;
+	box-shadow: 0 0 80px 0px rgba(0, 0, 0, 0.15);
+	border-radius: 5px;
+	padding: 50px;
+	display: flex;
+	justify-content: space-between;
+	transform: scale(1.05);
+	margin: 0 auto;
+
+
+}
+
+.box-wrapper .sub-title {
+	margin: 0 !important;
 }

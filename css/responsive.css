@@ -18,14 +18,13 @@
 		margin-left: -80px;
 	}
 	.navbar-nav {
-		width: 100%;
 		justify-content: center;
 	}
 	.header .navbar .navbar-nav .nav-item .nav-link {
 		padding: 0px 0px;
 	}
 	.header .navbar .navbar-nav .nav-item {
-		padding: 40px 0px 0;
+		padding: 0px 0px 0;
 	}
 	#header-06 .img-wrapper .intro-img .bounce_wrapper img {
 		width: 100%;
@@ -227,7 +226,7 @@
 	}
 	.navbar-brand {
 		position: absolute;
-		top: 10px;
+		top: 20px;
 		left: 15px;
 	}
 	.header .navbar .language {
@@ -241,14 +240,13 @@
 		margin-left: -80px;
 	}
 	.navbar-nav {
-		width: 100%;
 		justify-content: center;
 	}
 	.header .navbar .navbar-nav .nav-item .nav-link {
 		padding: 0px 0px;
 	}
 	.header .navbar .navbar-nav .nav-item {
-		padding: 40px 0px 0;
+		padding: 0px 0px 0;
 	}
 	/* index-03 */
 	.token_distribution_wrapper > img {
@@ -802,7 +800,7 @@
 		width: 100%
 	}
 	.header .navbar {
-		padding: 60px 0 15px !important;
+		padding: 10px 0 10px !important;
 		z-index: 99;
 		background: #020c59 !important;
 	}
@@ -1226,10 +1224,10 @@
 		position: relative;
 	}
 	.navbar-light .navbar-brand img {
-		visibility: hidden;
+		/*visibility: hidden;*/
 	}
 	.navbar-light .navbar-brand::before {
-		background: url('../images/logo.png');
+		/*background: url('../images/logo-bistry.svg');*/
 		position: absolute;
 		top: 0;
 		right: 0;
