@@ -1,3 +1,7 @@
+body {
+	max-width: 100%;
+}
+
 .logo-bistry {
 	height: 35px;
 }
@@ -60,10 +64,13 @@
 	justify-content: space-between;
 	transform: scale(1.05);
 	margin: 0 auto;
-
-
 }
 
 .box-wrapper .sub-title {
 	margin: 0 !important;
+}
+
+.page-wrapper {
+	overflow: hidden;
+	max-width: 100vw;
 }
